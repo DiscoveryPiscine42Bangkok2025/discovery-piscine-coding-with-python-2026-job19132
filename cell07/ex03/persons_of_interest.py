@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-
+#!/Users/mrmeowz/.pyenv/shims/python
 def famous_births(women_scientists):
     sorted_scientists = sorted(
         women_scientists.values(),
