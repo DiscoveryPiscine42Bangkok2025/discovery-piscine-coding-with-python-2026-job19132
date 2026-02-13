@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 import sys
 
 if len(sys.argv) == 1:

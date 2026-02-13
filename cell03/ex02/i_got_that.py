@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 message = input("What you gotta say? : ")
 while message != "STOP":
     message = input("What you gotta say? : ")

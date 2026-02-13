@@ -1,6 +1,5 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 import sys
-
 def shrink(text):
     print(text[:8])
 

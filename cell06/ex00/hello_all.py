@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 def hello():
     print("Hello, everyone!")
 

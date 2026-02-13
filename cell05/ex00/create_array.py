@@ -1,3 +1,3 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 array = [2, 8, 9, 48, 8, 22, -12, 2]
 print(array)

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 number = int(input("Enter a number\n"))
 
 i = 0

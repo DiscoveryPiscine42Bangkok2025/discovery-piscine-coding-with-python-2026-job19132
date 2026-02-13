@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 def average(class_dict):
     total_age = 0
     for age in class_dict.values():

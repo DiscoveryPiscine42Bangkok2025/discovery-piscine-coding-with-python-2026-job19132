@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-
+#!/Users/mrmeowz/.pyenv/shims/python
 def upcase_it(text):
     return text.upper()
 

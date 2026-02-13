@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 number = input("Give me a number: ")
 number_ch = float(number)
 

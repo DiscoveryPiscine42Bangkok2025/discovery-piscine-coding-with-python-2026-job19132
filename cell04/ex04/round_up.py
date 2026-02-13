@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 number = float(input("Give me a number: "))
 
 if number.is_integer():

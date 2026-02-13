@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 user_age = int(input("Please tell me your age: "))
 print("You are currently", user_age, "years old.")
 print("In 10 years, you'll be", user_age + 10, "years old.")

@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-
+#!/Users/mrmeowz/.pyenv/shims/python
 def find_the_redheads(dupont_family):
     redheads = []
     for first, hair_color in dupont_family.items():

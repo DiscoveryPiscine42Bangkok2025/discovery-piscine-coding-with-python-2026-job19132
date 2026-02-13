@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/mrmeowz/.pyenv/shims/python
 import sys
 count = len(sys.argv) - 1
 print("Number of parameters:", count,".")
