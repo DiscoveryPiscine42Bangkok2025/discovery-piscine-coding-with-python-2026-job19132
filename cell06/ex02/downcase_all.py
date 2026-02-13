@@ -1,5 +1,11 @@
 #!/Users/mrmeowz/.pyenv/shims/python
-def upcase_it(text):
-    return text.lower()
+import sys
 
-print(upcase_it("hello"))
+def downcase_it(string):
+    return string.lower()
+
+if len(sys.argv) < 2:
+    print("none")
+else:
+    for arg in sys.argv[1:]:
+        print(downcase_it(arg))
